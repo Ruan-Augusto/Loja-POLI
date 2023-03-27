@@ -1,24 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tennis Review</title>
-    <link rel="stylesheet" href="header {
-    background-color: #424E61;
-    color: white;
-}">
-</head>
+<html>
+<head></head>
 <body>
-    <header>
-        <h1>Vai ser uma imagem aqui</h1>
-        <ul>
-            <li>Polivalente</li>
-            <li>Ruan</li>
-            <li>Alysson</li>
-        </ul>
-    </header>
-
+ <doctype html> 
+    <title>Fama do tenis</title>
+    <style>body{background-color: gray;}img{width: 500px;height: 300px};</style>
+ </doctype>  
 </body>
 </html>
